@@ -1,7 +1,7 @@
 # Network project
 
 Com a introdução das redes no contexto do mundo contemporâneo, diversas técnologias foram concebidas e tiveram a oportunidade de se desenvolver. No presente projeto,
-abordaremos a origem das redes de computadore, sua utilização como meio de comunicação entre sistemas em escala global e sua arquitetura e aplicação e em uma instituição
+abordaremos a origem das redes de computadore, sua utilização como meio de comunicação entre sistemas em escala global e sua arquitetura e aplicação e em uma instituição
 fictícia.
 
 | :placard: Vitrine.Dev |     |
